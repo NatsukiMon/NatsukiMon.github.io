@@ -36,6 +36,7 @@ head:
 
 social:
   - name: 微博
+    link: https://weibo.com/u/1961597597
     icon: ri:weibo-line
     color: '#E6162D'
   - name: 网易云音乐
@@ -90,7 +91,7 @@ scrollreveal:
 
 sidebar:
   bg_image:  
-  bg_position: bottom 0rem center
+  bg_position: bottom 1rem center
   tagcloud:
     enable: false
     amount: 20
@@ -185,7 +186,7 @@ reward:
   enable: false
 
 footer:
-  since: 1997
+  since: 2022
   icon:
     name: ri:cloud-line
     animated: true
@@ -202,7 +203,7 @@ footer:
     enable: ture
     prefix: 本博客已艰难地运行
     suffix: (●'◡'●)
-    start_time: '2022-10-01T00:00:00'
+    start_time: '2022-09-23T00:00:00'
       
 say:
   enable: true
@@ -217,3 +218,5 @@ mourn:
 
 albums:
   enable: true
+
+ 
